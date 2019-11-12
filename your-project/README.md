@@ -1,9 +1,11 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Vladimir*
+*Ana*
+*Sabbah*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona , 15.11.2019]*
 
 ## Content
 - [Project Description](#project-description)
