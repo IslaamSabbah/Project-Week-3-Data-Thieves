@@ -1,8 +1,11 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Criminality in London
+
 *Vladimir*
+
 *Ana*
+
 *Sabbah*
 
 *[Data Analytics, Barcelona , 15.11.2019]*
@@ -17,14 +20,15 @@
 - [Links](#links)
 
 ## Project Description
-our project is about crimes reported in london, what are they? and what happened for criminals?
+Our project is about crimes reported in London in 2019. What type of crimes are they? Where do we have the most crimes reported?
 
 ## Questions & Hypotheses
-we will find out what are the most crimes occurr in london and which area is highly rated for crimes to occurr in it? and are crimes are related to the renting price or not?
+We will try to find out what the parts of London with the most collection of crimes. Moreover, we will try to make a corrolation between the average price of rent by area and the criminality in those area.
 
 ## Dataset
-we used a csv file for the crimes 
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+
+We used the official API from the UK police department and retrived the necessary information for London area.
+We also used data from the government to access to the information about price rents.
 
 ## Database
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other?
