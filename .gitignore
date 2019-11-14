@@ -197,4 +197,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+london_crime_by_lsoa.csv
 # End of https://www.gitignore.io/api/git,macos,python,windows,database,jupyternotebooks
