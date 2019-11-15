@@ -20,7 +20,7 @@
 - [Links](#links)
 
 ## Project Description
-Our project is about crimes reported in London in 2019. What type of crimes are they? Where do we have the most crimes reported?
+Our project is about crimes reported in London. What type of crimes are they? Where do we have the most crimes reported?
 
 ## Questions & Hypotheses
 We will try to find out what the parts of London with the most collection of crimes. Moreover, we will try to make a corrolation between the average price of rent by area and the criminality in those area.
